@@ -199,7 +199,7 @@ def start(update: Update, context: CallbackContext):
                              text="🚨 Support 🚨",
                              url=f"https://t.me/{SUPPORT_CHAT}"),
                          InlineKeyboardButton(
-                             text="🔔 Updates of TSUKASA 🔔",
+                             text="🔔 Updates 🔔",
                              url="https://t.me/hiroiscool")
                     ], 
                      [

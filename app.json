@@ -172,7 +172,12 @@
          "description": "To Run telegraph uploader",
          "required": false,
          "value": "Kurumi"
-      }
+      },
+      "SUDO_USERS": {
+         "description": "people who can use the vc stream functions",
+         "required": true,
+         "value": "864321789"
+      } 
   },
   "buildpacks": [
     {

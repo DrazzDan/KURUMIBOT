@@ -60,3 +60,8 @@ heroku3
 telegraph
 youtube_search
 search_engine_parser
+Pyrogram
+TgCrypto
+gTTS
+pyaml
+python-mpv

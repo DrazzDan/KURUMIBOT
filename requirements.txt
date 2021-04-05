@@ -65,3 +65,4 @@ gTTS
 pyaml
 python-mpv
 envparse
+loguru

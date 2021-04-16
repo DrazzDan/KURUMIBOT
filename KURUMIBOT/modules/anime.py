@@ -8,8 +8,8 @@ import jikanpy
 import requests
 from telegram.utils.helpers import mention_html
 from telegram.error import BadRequest
-from SaitamaRobot import DEV_USERS, OWNER_ID, DRAGONS, REDIS, dispatcher
-from SaitamaRobot.modules.disable import DisableAbleCommandHandler
+from KURUMIBOT import DEV_USERS, OWNER_ID, DRAGONS, REDIS, dispatcher
+from KURUMIBOT.modules.disable import DisableAbleCommandHandler
 from telegram import (InlineKeyboardButton, InlineKeyboardMarkup, ParseMode,
                       Update ,replymarkup)
 from telegram.ext import CallbackContext, CallbackQueryHandler, run_async
